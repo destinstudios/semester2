@@ -1,0 +1,1 @@
+Subject pages load dynamically from Supabase. Do not duplicate subject HTML files. Dashboard links to ms-subject.html?id=SUBJECT_UUID.
